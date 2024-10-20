@@ -148,3 +148,4 @@ bot.on('playerJoined', (player) => {
 })
 
 bot.on('physicTick', lookAtNearestPlayer)
+
